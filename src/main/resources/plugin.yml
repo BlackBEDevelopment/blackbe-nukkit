@@ -1,0 +1,8 @@
+name: BlackBE
+main: com.wcpe.McBan.Main
+version: "2.0"
+api: ["1.0.5"]
+author: WCPE
+prefix: "BlackBE"
+description: "BlackBE"
+# commands:
